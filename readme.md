@@ -19,10 +19,10 @@ The ```zoom``` function changes the font size.
 The ```run``` function runs the program in a seperate window.
 
 ## Additional information
-Written by Tobias Kisling
+Written by Annabeth Kisling
 
 Version 1.0
 
 
-You can reach me by mail (tobias.kisling@icloud.com) or on github (https://github.com/hasderhi).
+You can reach me by mail (annabeth@tk-dev-software.com) or on github (https://github.com/hasderhi).
 
